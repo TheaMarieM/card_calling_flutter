@@ -119,7 +119,7 @@ class ProfilePage extends StatelessWidget {
                   backgroundColor: Colors.grey[200],
                   child: Padding(
                     padding: const EdgeInsets.all(8.0),
-                    // Make sure you have a 'github.png' in your assets folder
+              
                     child: Image.asset('assets/github.png', color: Colors.grey[700]),
                   ),
                 ),
